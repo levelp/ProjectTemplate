@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>RELEASE</version>
+            <version>5.3.38.Final</version>
         </dependency>
 
         <!-- for JPA, use hibernate-entitymanager instead of hibernate-core -->
